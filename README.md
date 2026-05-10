@@ -34,6 +34,3 @@ Power BI dashboard created to track:
 - Power BI
 
 ## Author
-Nick  
-LinkedIn: https://linkedin.com/in/yourprofile  
-GitHub: https://github.com/yourusername
